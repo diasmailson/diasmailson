@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 **`Desenvolvedor Web`**
 
-Me chamo Mailson Dias, sou natural da Bahia. Sou formado em Análise e desenvolvimento de Sistemas pelo SENAI/CIMATEC. 
+My name is Mailson Dias, from Brazil. I have a degree in Systems Analysis and Development from SENAI/CIMATEC.
 
 ---
 
