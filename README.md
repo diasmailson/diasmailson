@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 My name is Mailson Dias, from Brazil. I have a degree in Systems Analysis and Development from SENAI/CIMATEC.
 
-🌱 I’m currently learning about Python in Bootcamp: Suzano - Python Developer [2025]
+🌱 I am currently learning about Python at Bootcamp: Suzano - Python Developer, on the platform  [DIO - Digital Innovation One](https://www.dio.me/)
 
 ---
 
