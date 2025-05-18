@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 **`Desenvolvedor Web`**
 
-My name is Mailson Dias, from Brazil. I have a degree in Systems Analysis and Development from SENAI/CIMATEC.
+Meu nome é Mailson Dias, sou brasileiro. Sou formado em Análise e Desenvolvimento de Sistemas pelo SENAI/CIMATEC.
 
-🌱 I am currently learning about Python at Bootcamp: Suzano - Python Developer, on the platform  [DIO - Digital Innovation One](https://www.dio.me/)
+🌱 Atualmente, estou aprendendo Python no Bootcamp: Suzano - Desenvolvedor Python, na plataforma  [DIO - Digital Innovation One](https://www.dio.me/)
 
 ---
 
