@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 📚 **Estudos em andamento:**
 - 🚀 React na [Rocketseat](https://www.rocketseat.com.br/)
-- 🐍 Python na [DIO](https://www.dio.me/) no Bootcamp: Suzano - Python Developer 
 
 🛠️ **Linguagens e Tecnologias**
 
