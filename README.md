@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 📚 **Estudos em andamento:**
 - 🚀 React na [Rocketseat](https://www.rocketseat.com.br/)
 
-🛠️ **Linguagens e Tecnologias**
+
+💻 **Linguagens e Tecnologias**
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -35,7 +36,12 @@ Here are some ideas to get you started:
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+🧰 **Ferramentas**
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
+
 
 📈 **Meu Objetivo:** Evoluir continuamente como desenvolvedor e contribuir com projetos que impactem positivamente o mundo.
 <br/>
