@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 📚 **Estudos em andamento:**
 - 🚀 React na [Rocketseat](https://www.rocketseat.com.br/)
+- :abacus: Análise de Dados na Datamundo
 
 
 💻 **Linguagens e Tecnologias**
