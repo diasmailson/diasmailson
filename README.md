@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 📈 **Meu Objetivo:** Evoluir continuamente como desenvolvedor e contribuir com projetos que impactem positivamente o mundo.
 <br/>
 
+<!--
 ### 📊 Estatísticas
 
 <p>
@@ -66,6 +67,6 @@ Here are some ideas to get you started:
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasmailson&theme=light&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+-->
 </p>
 
