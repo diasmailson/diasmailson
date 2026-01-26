@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 🧰 **Ferramentas**
 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio,postman)](https://skillicons.dev)
 <!-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white) -->
 
