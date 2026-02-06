@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Olá, Eu sou Mailson Dias
-**`Analista de Sistemas e Desenvolvedor Web`**
+**`Analista de Sistemas | Desenvolvedor Web | Dados`**
 
 💼 Desenvolvedor Web Júnior com foco em Desenvolvimento Web & Dados, atuando na manutenção, debug e evolução de aplicações, com atenção à qualidade de código, boas práticas e melhoria contínua de processos.
 
