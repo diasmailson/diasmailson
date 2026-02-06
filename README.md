@@ -13,22 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--#  Mailson Dias-->
+## 👋 Olá, Eu sou Mailson Dias
+**`Analista de Sistemas e Desenvolvedor Web`**
 
+💼 Desenvolvedor Web Júnior com foco em Desenvolvimento Web & Dados, atuando na manutenção, debug e evolução de aplicações, com atenção à qualidade de código, boas práticas e melhoria contínua de processos.
 
-## 👋 Olá! Eu sou Mailson Dias
-**`Um pouco sobre minha trajetória`**
+Tenho perfil analítico, facilidade para aprender novas tecnologias e experiência prática em apoiar times no desenvolvimento e manutenção de sistemas web, sempre buscando evoluir tecnicamente e gerar valor ao negócio.
 
-🎓 **Formação:** Técnico em Análise e Desenvolvimento de Sistemas pelo [SENAI/CIMATEC](https://www.senaicimatec.com.br/)
-<br/>
+## 🔎 Perfil Profissional
 
-📚 **Estudos em andamento:**
-- 🚀 React na [Rocketseat](https://www.rocketseat.com.br/)
-- :abacus: Análise de Dados na Datamundo
+🎓 **Formação**: Análise e Desenvolvimento de Sistemas — Senai/Cimatec <br>
+💻 **Atuação**: Desenvolvimento Web (Front-end e Back-end) e Integração de Dados  <br>
+🐞 **Experiência**: Debug, manutenção e refatoração de sistemas  <br>
+🎲 **Dados**: SQL Server, tratamento e migração de dados  <br>
+🌐 **Stack em evolução**: JavaScript, React e PHP (POO) <br>
+📚 **Aprendizado contínuo**: Atualmente aprendendo **PHP com Laravel** e me aprimorando em **Javascript**
 
-
-💻 **Linguagens e Tecnologias**
-
+## 🛠️ Tecnologias e Ferramentas
+ 💻 **Linguagens e Tecnologias**
+ 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php,laravel,python,mysql)](https://skillicons.dev)
 <!-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -40,35 +43,28 @@ Here are some ideas to get you started:
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) -->
 
-
 🧰 **Ferramentas**
 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio,postman)](https://skillicons.dev)
 <!-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white) -->
 
+## 📌 O que você vai encontrar por aqui
 
-📈 **Meu Objetivo:** Evoluir continuamente como desenvolvedor e contribuir com projetos que impactem positivamente o mundo.
-<br/>
+- Repositórios de **estudo e evolução técnica**.
+- Projetos web
+- Códigos voltados para **aprendizado contínuo e organização**
 
-<!--
-### 📊 Estatísticas
+## 📈 Em constante evolução
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=diasmailson&show_icons=true&theme=light&include_all_commits=true&locale=pt-br" 
-  />
+Acredito que tecnologia é aprendizado contínuo. Estou sempre estudando, testando novas abordagens e melhorando minhas habilidades, **um commit de cada vez** 🚀
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasmailson&theme=light&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
--->
+### 🤝 Vamos conversar? 
+
+💼 LinkedIn: https://www.linkedin.com/in/mailson-dias <br>
+📧 Email: mailsondias.dev@gmail.com
+
+
+
 </p>
 
