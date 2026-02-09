@@ -23,7 +23,7 @@ Tenho perfil analítico, facilidade para aprender novas tecnologias e experiênc
 ## 🔎 Perfil Profissional
 
 🎓 **Formação**: Análise e Desenvolvimento de Sistemas — Senai/Cimatec <br>
-💻 **Atuação**: Desenvolvimento Web (Front-end e Back-end), Integração de Dados e Suporte de TI <br>
+💻 **Atuação**: Desenvolvimento Web (Front-end e Back-end), Dados e Suporte de TI <br>
 🐞 **Experiência**: Debug, manutenção e refatoração de sistemas  <br>
 🎲 **Dados**: SQL Server, tratamento e migração de dados  <br>
 🌐 **Stack em evolução**: JavaScript, React e PHP (POO) <br>
@@ -72,7 +72,7 @@ Acredito que tecnologia é aprendizado contínuo. Estou sempre estudando, testan
 Atuar em um ambiente tecnológico onde eu possa contribuir como Desenvolvedor Web Júnior e/ou Analista de Suporte de TI, aplicando meu perfil analítico, habilidades técnicas e foco em resolução de problemas, contribuindo para a estabilidade dos sistemas e evolução das soluções.
 
 ### 🤝 Vamos nos conectar? 
-Estou aberto a trocar experiências, colaborar em projetos e conversar sobre oportunidades em Desenvolvimento Web, Dados e Suporte de TI.
+Aberto a networking e oportunidades profissionais nas áreas de Desenvolvimento Web, Dados e Suporte de TI.
 
 💼 LinkedIn: https://www.linkedin.com/in/mailson-dias <br>
 📧 Email: mailsondias.dev@gmail.com
