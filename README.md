@@ -57,7 +57,7 @@ Atuação em **TI & Operações**, com foco na **sustentação de sistemas web**
 
 ## 📌 O que você vai encontrar por aqui
 
-- Repositórios de **estudo e evolução técnica**.
+- Repositórios de **estudo e evolução técnica**
 - Projetos web
 - Códigos voltados para **aprendizado contínuo e organização**
 
@@ -66,7 +66,7 @@ Atuação em **TI & Operações**, com foco na **sustentação de sistemas web**
 > Acredito que tecnologia é aprendizado contínuo. Estou sempre estudando, testando novas abordagens e melhorando minhas habilidades, **um commit de cada vez** 🚀
 
 ## 📌 Objetivo Profissional
->Atuar em um ambiente tecnológico onde eu possa contribuir como Desenvolvedor Web Júnior e/ou Analista de Suporte de TI, aplicando meu perfil analítico, habilidades técnicas e foco em >resolução de problemas, contribuindo para a estabilidade dos sistemas e evolução das soluções.
+>Atuar em um ambiente tecnológico onde eu possa contribuir como Desenvolvedor Web Júnior e/ou Analista de Suporte de TI, aplicando meu perfil analítico, habilidades técnicas e foco em **resolução de problemas**, contribuindo para a estabilidade dos sistemas e evolução das soluções.
 
 ### 🤝 Vamos nos conectar? 
 Aberto a networking e oportunidades profissionais nas áreas de Desenvolvimento Web, Dados e Suporte de TI.
