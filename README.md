@@ -66,7 +66,7 @@ Tenho perfil analítico, facilidade para aprender novas tecnologias e experiênc
 
 ## 📈 Em constante evolução
 
-Acredito que tecnologia é aprendizado contínuo. Estou sempre estudando, testando novas abordagens e melhorando minhas habilidades, **um commit de cada vez** 🚀
+> Acredito que tecnologia é aprendizado contínuo. Estou sempre estudando, testando novas abordagens e melhorando minhas habilidades, **um commit de cada vez** 🚀
 
 ## 📌 Objetivo Profissional
 Atuar em um ambiente tecnológico onde eu possa contribuir como Desenvolvedor Web Júnior e/ou Analista de Suporte de TI, aplicando meu perfil analítico, habilidades técnicas e foco em resolução de problemas, contribuindo para a estabilidade dos sistemas e evolução das soluções.
