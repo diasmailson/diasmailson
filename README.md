@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Olá, Eu sou Mailson Dias
-**`Analista de Sistemas | Desenvolvedor Web | Dados`**
+**`Analista de Sistemas | Desenvolvedor Web | Dados | Suporte`**
 
-💼 Desenvolvedor Web Júnior com foco em Desenvolvimento Web & Dados, atuando na manutenção, debug e evolução de aplicações, com atenção à qualidade de código, boas práticas e melhoria contínua de processos.
+💼 Desenvolvedor Web Júnior com foco em Desenvolvimento Web, Dados e Suporte de TI, atuando na manutenção, debug e evolução de aplicações, além de atendimento técnico, análise de incidentes e suporte a usuários e sistemas, sempre com atenção à qualidade, boas práticas e melhoria contínua de processos.
 
 Tenho perfil analítico, facilidade para aprender novas tecnologias e experiência prática em apoiar times no desenvolvimento e manutenção de sistemas web, sempre buscando evoluir tecnicamente e gerar valor ao negócio.
 
 ## 🔎 Perfil Profissional
 
 🎓 **Formação**: Análise e Desenvolvimento de Sistemas — Senai/Cimatec <br>
-💻 **Atuação**: Desenvolvimento Web (Front-end e Back-end) e Integração de Dados  <br>
+💻 **Atuação**: Desenvolvimento Web (Front-end e Back-end), Integração de Dados e Suporte de TI <br>
 🐞 **Experiência**: Debug, manutenção e refatoração de sistemas  <br>
 🎲 **Dados**: SQL Server, tratamento e migração de dados  <br>
 🌐 **Stack em evolução**: JavaScript, React e PHP (POO) <br>
@@ -49,6 +49,15 @@ Tenho perfil analítico, facilidade para aprender novas tecnologias e experiênc
 <!-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white) -->
 
+## 🖥️ Suporte de TI & Operações
+
+- Atendimento técnico a usuários 
+- Diagnóstico e resolução de problemas em sistemas web
+- Análise de incidentes, erros e falhas de aplicação
+- Apoio à manutenção de sistemas e ambientes
+- Documentação de soluções e processos
+- Comunicação entre usuários e equipes técnicas
+
 ## 📌 O que você vai encontrar por aqui
 
 - Repositórios de **estudo e evolução técnica**.
@@ -59,7 +68,11 @@ Tenho perfil analítico, facilidade para aprender novas tecnologias e experiênc
 
 Acredito que tecnologia é aprendizado contínuo. Estou sempre estudando, testando novas abordagens e melhorando minhas habilidades, **um commit de cada vez** 🚀
 
-### 🤝 Vamos conversar? 
+## 📌 Objetivo Profissional
+Atuar em um ambiente tecnológico onde eu possa contribuir como Desenvolvedor Web Júnior e/ou Analista de Suporte de TI, aplicando meu perfil analítico, habilidades técnicas e foco em resolução de problemas, contribuindo para a estabilidade dos sistemas e evolução das soluções.
+
+### 🤝 Vamos nos conectar? 
+Estou aberto a trocar experiências, colaborar em projetos e conversar sobre oportunidades em Desenvolvimento Web, Dados e Suporte de TI.
 
 💼 LinkedIn: https://www.linkedin.com/in/mailson-dias <br>
 📧 Email: mailsondias.dev@gmail.com
