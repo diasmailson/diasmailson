@@ -71,7 +71,7 @@ Atuação em **TI & Operações**, com foco na **sustentação de sistemas web**
 ### 🤝 Vamos nos conectar? 
 Aberto a networking e oportunidades profissionais nas áreas de Desenvolvimento Web, Dados e Suporte de TI.
 
-💼 LinkedIn: https://www.linkedin.com/in/mailson-dias <br>
+💼 LinkedIn: [in/mailson-dias](https://www.linkedin.com/in/mailson-dias) <br>
 📧 Email: mailsondias.dev@gmail.com
 
 
