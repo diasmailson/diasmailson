@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Olá, Eu sou Mailson Dias
-**`Analista de Sistemas | Desenvolvedor Web | Dados | Suporte`**
+**`Analista de Sistemas | Desenvolvedor Web | Dados `**
 
-💼 Desenvolvedor Web Júnior com foco em Desenvolvimento Web, Dados e Suporte de TI, atuando na manutenção, debug e evolução de aplicações, além de atendimento técnico, análise de incidentes e suporte a usuários e sistemas, sempre com atenção à qualidade, boas práticas e melhoria contínua de processos.
-
-Tenho perfil analítico, facilidade para aprender novas tecnologias e experiência prática em apoiar times no desenvolvimento e manutenção de sistemas web, sempre buscando evoluir tecnicamente e gerar valor ao negócio.
+💼 **Desenvolvedor Web Júnior** com experiência em **desenvolvimento e manutenção de aplicações web**, incluindo implementação de funcionalidades, correção de bugs e manutenção evolutiva. Perfil analítico, rápido para aprender novas tecnologias e focado em entregar soluções eficientes.
 
 ## 🔎 Perfil Profissional
 
@@ -27,7 +25,7 @@ Tenho perfil analítico, facilidade para aprender novas tecnologias e experiênc
 🐞 **Experiência**: Debug, manutenção e refatoração de sistemas  <br>
 🎲 **Dados**: SQL Server, tratamento e migração de dados  <br>
 🌐 **Stack em evolução**: JavaScript, React e PHP (POO) <br>
-📚 **Aprendizado contínuo**: Atualmente aprendendo **PHP com Laravel** e me aprimorando em **Javascript**
+📚 **Aprendizado contínuo**: Atualmente aprendendo **Laravel** e me aprimorando em **Javascript**
 
 ## 🛠️ Tecnologias e Ferramentas
  💻 **Linguagens e Tecnologias**
@@ -49,14 +47,13 @@ Tenho perfil analítico, facilidade para aprender novas tecnologias e experiênc
 <!-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white) -->
 
+## 📊 Dados
+
+Conhecimentos em Análise de Dados, com experiência no uso de Power BI, processos de ETL e Excel para organização, tratamento e visualização de dados, apoiando a análise de informações e a tomada de decisão.
+
 ## 🖥️ Suporte de TI & Operações
 
-- Atendimento técnico a usuários 
-- Diagnóstico e resolução de problemas em sistemas web
-- Análise de incidentes, erros e falhas de aplicação
-- Apoio à manutenção de sistemas e ambientes
-- Documentação de soluções e processos
-- Comunicação entre usuários e equipes técnicas
+Atuação em **TI & Operações**, com foco na **sustentação de sistemas web**, incluindo atendimento e **gestão de chamados**, análise e resolução de incidentes, diagnóstico de falhas e suporte técnico a usuários e times de desenvolvimento, contribuindo para a estabilidade e melhoria contínua dos serviços de TI.
 
 ## 📌 O que você vai encontrar por aqui
 
@@ -69,7 +66,7 @@ Tenho perfil analítico, facilidade para aprender novas tecnologias e experiênc
 > Acredito que tecnologia é aprendizado contínuo. Estou sempre estudando, testando novas abordagens e melhorando minhas habilidades, **um commit de cada vez** 🚀
 
 ## 📌 Objetivo Profissional
-Atuar em um ambiente tecnológico onde eu possa contribuir como Desenvolvedor Web Júnior e/ou Analista de Suporte de TI, aplicando meu perfil analítico, habilidades técnicas e foco em resolução de problemas, contribuindo para a estabilidade dos sistemas e evolução das soluções.
+>Atuar em um ambiente tecnológico onde eu possa contribuir como Desenvolvedor Web Júnior e/ou Analista de Suporte de TI, aplicando meu perfil analítico, habilidades técnicas e foco em >resolução de problemas, contribuindo para a estabilidade dos sistemas e evolução das soluções.
 
 ### 🤝 Vamos nos conectar? 
 Aberto a networking e oportunidades profissionais nas áreas de Desenvolvimento Web, Dados e Suporte de TI.
