@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ## 📊 Dados
 
-Conhecimentos em Análise de Dados, com experiência no uso de Power BI, processos de ETL e Excel para organização, tratamento e visualização de dados, apoiando a análise de informações e a tomada de decisão.
+Conhecimentos em **Análise de Dados**, com experiência em **Power BI, Excel e processos de ETL (Extração, Transformação e Carga)** para coleta, limpeza, organização, tratamento e visualização de dados, **apoiando a análise de indicadores, geração de insights** e a **tomada de decisão** baseada em dados.
 
 ## 🖥️ Suporte de TI & Operações
 
