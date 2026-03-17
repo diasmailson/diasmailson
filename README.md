@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 <!-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white) -->
 
+<!--
 ## 📊 Dados
 
 Conhecimentos em **Análise de Dados**, com experiência em **Power BI, Excel e processos de ETL (Extração, Transformação e Carga)** para coleta, limpeza, organização, tratamento e visualização de dados, **apoiando a análise de indicadores, geração de insights** e a **tomada de decisão** baseada em dados.
@@ -54,7 +55,7 @@ Conhecimentos em **Análise de Dados**, com experiência em **Power BI, Excel e 
 ## 🖥️ Suporte de TI & Operações
 
 Atuação em **TI & Operações**, com foco na **sustentação de sistemas web**, incluindo atendimento e **gestão de chamados**, análise e resolução de incidentes, diagnóstico de falhas e suporte técnico a usuários e times de desenvolvimento, contribuindo para a estabilidade e melhoria contínua dos serviços de TI.
-
+-->
 ## 📌 O que você vai encontrar por aqui
 
 - Repositórios de **estudo e evolução técnica**
