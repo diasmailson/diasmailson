@@ -66,11 +66,13 @@ Atuação em **TI & Operações**, com foco na **sustentação de sistemas web**
 
 > Acredito que tecnologia é aprendizado contínuo. Estou sempre estudando, testando novas abordagens e melhorando minhas habilidades, **um commit de cada vez** 🚀
 
+<!--
 ## 📌 Objetivo Profissional
 >Atuar em um ambiente tecnológico onde eu possa contribuir como Desenvolvedor Web Júnior e/ou Analista de Suporte de TI, aplicando meu perfil analítico, habilidades técnicas e foco em **resolução de problemas**, contribuindo para a estabilidade dos sistemas e evolução das soluções.
+-->
 
 ### 🤝 Vamos nos conectar? 
-Aberto a networking e oportunidades profissionais nas áreas de Desenvolvimento Web, Dados e Suporte de TI.
+Aberto a networking e oportunidades profissionais nas áreas de Analista de Sistema, Desenvolvimento Web, Dados e Suporte de TI.
 
 💼 LinkedIn: [in/mailson-dias](https://www.linkedin.com/in/mailson-dias) <br>
 📧 Email: mailsondias.dev@gmail.com
