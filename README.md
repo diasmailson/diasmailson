@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 🔎 Perfil Profissional
 
-- 🎓 **Formação**: Análise e Desenvolvimento de Sistemas — Senai/Cimatec <br>
+- 🎓 **Formação**: Análise e Desenvolvimento de Sistemas — SENAI/CIMATEC <br>
 - 💻 **Atuação**: Desenvolvimento Web (Front-end e Back-end), Dados e Suporte de TI <br>
 - 🐞 **Experiência**: Debug, manutenção e refatoração de sistemas  <br>
 - 🎲 **Dados**: SQL Server, tratamento e migração de dados  <br>
