@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 ## 🔎 Perfil Profissional
 
-🎓 **Formação**: Análise e Desenvolvimento de Sistemas — Senai/Cimatec <br>
-💻 **Atuação**: Desenvolvimento Web (Front-end e Back-end), Dados e Suporte de TI <br>
-🐞 **Experiência**: Debug, manutenção e refatoração de sistemas  <br>
-🎲 **Dados**: SQL Server, tratamento e migração de dados  <br>
-🌐 **Stack em evolução**: JavaScript, React e PHP (POO) <br>
-📚 **Aprendizado contínuo**: Atualmente aprendendo **Laravel** e me aprimorando em **Javascript**
+- 🎓 **Formação**: Análise e Desenvolvimento de Sistemas — Senai/Cimatec <br>
+- 💻 **Atuação**: Desenvolvimento Web (Front-end e Back-end), Dados e Suporte de TI <br>
+- 🐞 **Experiência**: Debug, manutenção e refatoração de sistemas  <br>
+- 🎲 **Dados**: SQL Server, tratamento e migração de dados  <br>
+- 🌐 **Stack em evolução**: JavaScript, React e PHP (POO) <br>
+- 📚 **Aprendizado contínuo**: Atualmente aprendendo **Laravel** e me aprimorando em **Javascript**
 
 ## 🛠️ Tecnologias e Ferramentas
  💻 **Linguagens e Tecnologias**
