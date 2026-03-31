@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 🎓 **Formação**: Análise e Desenvolvimento de Sistemas — SENAI/CIMATEC <br>
 - 💻 **Atuação**: Desenvolvimento Web (Front-end e Back-end), Dados e Suporte de TI <br>
 - 🐞 **Experiência**: Debug, manutenção e refatoração de sistemas  <br>
-- 🎲 **Dados**: SQL Server, tratamento e migração de dados  <br>
-- 🌐 **Stack em evolução**: JavaScript, React e PHP (POO) <br>
+- 🎲 **Dados**: SQL, tratamento e migração de dados  <br>
+- 🌐 **Stack em evolução**: JavaScript, React, Python, PHP<br>
 - 📚 **Aprendizado contínuo**: Atualmente aprendendo **Laravel** e me aprimorando em **Javascript**
 
 ## 🛠️ Tecnologias e Ferramentas
