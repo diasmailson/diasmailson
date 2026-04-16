@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## 🔎 Perfil Profissional
 
 - 🎓 **Formação**: Análise e Desenvolvimento de Sistemas — SENAI/CIMATEC <br>
-- 💻 **Atuação**: Desenvolvimento Web (Front-end e Back-end), Dados e Suporte de TI <br>
+- 💻 **Atuação**: Desenvolvimento Web (Front-end e Back-end) e Análise de Dados <br>
 - 🐞 **Experiência**: Debug, manutenção e refatoração de sistemas  <br>
 - 🎲 **Dados**: SQL, tratamento e migração de dados  <br>
 - 🌐 **Stack em evolução**: JavaScript, React, Python, PHP<br>
@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 <!-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white) -->
 
-<!--
+
 ## 📊 Dados
 
-Conhecimentos em **Análise de Dados**, com experiência em **Power BI, Excel e processos de ETL (Extração, Transformação e Carga)** para coleta, limpeza, organização, tratamento e visualização de dados, **apoiando a análise de indicadores, geração de insights** e a **tomada de decisão** baseada em dados.
-
+Conhecimentos em Análise de Dados, com experiência em Power BI, Excel e processos de ETL (Extração, Transformação e Carga) para coleta, limpeza, organização, tratamento e visualização de dados, apoiando a análise de indicadores, geração de insights e a tomada de decisão baseada em dados.
+<!--
 ## 🖥️ Suporte de TI & Operações
 
 Atuação em **TI & Operações**, com foco na **sustentação de sistemas web**, incluindo atendimento e **gestão de chamados**, análise e resolução de incidentes, diagnóstico de falhas e suporte técnico a usuários e times de desenvolvimento, contribuindo para a estabilidade e melhoria contínua dos serviços de TI.
@@ -71,9 +71,8 @@ Atuação em **TI & Operações**, com foco na **sustentação de sistemas web**
 >Atuar em um ambiente tecnológico onde eu possa contribuir como Desenvolvedor Web Júnior e/ou Analista de Suporte de TI, aplicando meu perfil analítico, habilidades técnicas e foco em **resolução de problemas**, contribuindo para a estabilidade dos sistemas e evolução das soluções.
 -->
 
-### 🤝 Vamos nos conectar? 
-Aberto a networking e oportunidades profissionais nas áreas de Analista de Sistema, Desenvolvimento Web, Dados e Suporte de TI.
-
+## 🤝 Contato
+<!--Aberto a networking e oportunidades profissionais nas áreas de Analista de Sistema, Desenvolvimento Web, Dados e Suporte de TI.-->
 💼 LinkedIn: [in/mailson-dias](https://www.linkedin.com/in/mailson-dias) <br>
 📧 Email: mailsondias.dev@gmail.com
 
