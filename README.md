@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 ## 👋 Olá, Eu sou Mailson Dias
 **`Analista de Sistemas & Dados `**
 
-💼 **Analista de Sistemas** com experiência em **desenvolvimento e manutenção de aplicações web**, incluindo implementação de funcionalidades, correção de bugs e manutenção evolutiva. Perfil analítico, rápido para aprender novas tecnologias e focado em entregar soluções eficientes.
+💼 Profissional com experiência em desenvolvimento, manutenção e evolução de aplicações web, atuando na implementação de funcionalidades, correção de bugs, manutenção evolutiva e melhoria contínua de sistemas.
+
+Possuo conhecimentos em **Python** para automação de processos e scripts, **SQL** para consultas, modelagem e manipulação de dados, e **Power BI** para desenvolvimento de dashboards e análises gerenciais.
+
+Perfil analítico, proativo e orientado a resultados, com facilidade para aprender novas tecnologias, resolver problemas e desenvolver soluções que aumentem a eficiência operacional e agreguem valor ao negócio.
 
 ## 🔎 Perfil Profissional
 
