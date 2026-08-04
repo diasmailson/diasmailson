@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Olá, Eu sou Mailson Dias
-**`Analista de Sistemas | Desenvolvedor Web | Dados `**
+**`Analista de Sistemas & Dados `**
 
-💼 **Desenvolvedor Web Júnior** com experiência em **desenvolvimento e manutenção de aplicações web**, incluindo implementação de funcionalidades, correção de bugs e manutenção evolutiva. Perfil analítico, rápido para aprender novas tecnologias e focado em entregar soluções eficientes.
+💼 **Analista de Sistemas** com experiência em **desenvolvimento e manutenção de aplicações web**, incluindo implementação de funcionalidades, correção de bugs e manutenção evolutiva. Perfil analítico, rápido para aprender novas tecnologias e focado em entregar soluções eficientes.
 
 ## 🔎 Perfil Profissional
 
@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 💻 **Atuação**: Desenvolvimento Web (Front-end e Back-end) e Análise de Dados <br>
 - 🐞 **Experiência**: Debug, manutenção e refatoração de sistemas  <br>
 - 🎲 **Dados**: SQL, tratamento e migração de dados  <br>
-- 🌐 **Stack em evolução**: JavaScript, React, Python, PHP<br>
-- 📚 **Aprendizado contínuo**: Atualmente aprendendo **Laravel** e me aprimorando em **Javascript**
+- 🌐 **Stack em evolução**: Python, React, PHP <br>
+- 📚 **Aprendizado contínuo**: Atualmente aprendendo **PHP**
 
 ## 🛠️ Tecnologias e Ferramentas
  💻 **Linguagens e Tecnologias**
